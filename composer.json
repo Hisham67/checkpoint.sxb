@@ -1,0 +1,15 @@
+{
+    "name": "hisha/checkpoint1",
+    "authors": [
+        {
+            "name": "El hachemi AGGOUN",
+            "email": "aggoun67@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
